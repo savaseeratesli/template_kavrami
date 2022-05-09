@@ -1,0 +1,2 @@
+D:\opp_projeler\template\Debug\template.exe
+D:\opp_projeler\template\Debug\template.pdb

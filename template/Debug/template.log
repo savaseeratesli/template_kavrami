@@ -1,0 +1,7 @@
+﻿  template.cpp
+D:\opp_projeler\template\template.cpp(71,33): warning C4305: 'bağımsız değişken': 'double' iken 'Type' olarak kesildi
+          with
+          [
+              Type=float
+          ]
+  template.vcxproj -> D:\opp_projeler\template\Debug\template.exe
